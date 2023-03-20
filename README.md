@@ -10,3 +10,7 @@ Just clone the repo and use it ! <br/> <br/>
 ``057jMrc6VCwVaiGp``<br/>
 ``8S56c1uPeNU4RA73``<br/>
 ``Z0pYBGkPO6aMAV6``<br/>
+<br/> <br/>
+``me@mysupercomputer ~ % /a.out 2 32 special``<br/>
+``Vi!cMDkHWQjb0Ua63Ki@C7C0p!%Gfhlw``<br/>
+``Hz5c53U_JkGks2iQ7VxqHVHS4sp$N2Sl``<br/>
