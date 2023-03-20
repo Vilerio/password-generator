@@ -5,3 +5,8 @@ Just clone the repo and use it ! <br/> <br/>
 ``g++ main.cpp``<br/> <br/>
 ``./a.out <number of passwords> <length of passwords> <type of passwords (alphanum or special)>``<br/> <br/>
 ### Examples of output
+
+``me@mysupercomputer ~ % ./a.out 3 16 alphanum
+057jMrc6VCwVaiGp
+8S56c1uPeNU4RA73
+Z0pYBGkPO6aMAV6``
