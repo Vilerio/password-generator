@@ -39,7 +39,7 @@ int main(int argc, char *argv[])
     }
     else
     {
-        std::cout << "Erreur de type de mot de passe" << std::endl;
+        std::cout << "Password type error" << std::endl;
     }
 
     return 0;
